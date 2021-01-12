@@ -18,7 +18,7 @@ To start server:
 npm start
 ```
 
-Visit [localhost:3000/product/1](localhost:3000/product/1) to view first product. See different products by changing number.
+Visit [localhost:3000/product/1](http:localhost:3000/product/1) to view first product. See different products by changing number.
 
 ## Technologies
 - React
