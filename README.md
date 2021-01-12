@@ -36,4 +36,5 @@ Testing done with Jest and Enzyme. Type command 'npm test' to run all test. Incl
 ## Product Overview
 This feature gives client the ability to filter through all styles available for a product. Client can click through a gallery of images for a given style. Client can add 
 products by quantity and size.
+
 ![](https://github.com/NateLeeP/FEC/blob/master/catwalk_project_overview.gif)
