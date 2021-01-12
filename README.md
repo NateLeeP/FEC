@@ -1,15 +1,39 @@
-# FEC
+# Project Catwalk 
 
-#### Installation
+Client-facing frontend for e-commerce marketplace. Each member of a team of four built out of one of the following sections: Product Overview, Related Products, Questions & Answers, and Ratings & Reviews. 
 
-1. Run 'npm install' after cloning repository down to your local machine.
+## Installation
 
-2. To test server, type 'npm start' from your terminal (you should see a message that logs the listening port)
+After cloning repository, run the following commands.
+To install dependencies:
+'''
+npm install
+'''
+To bundle js files:
+'''
+npm run build-dev
+'''
+To start server:
+'''
+npm start
+'''
 
-3. To test rendering of React "Hello World" component, type 'npm run build' into your terminal. This runs the 'build' script as seen in the 'package.json' file.
+Visit 'localhost:3000/product/1' to view first product. See different products by changing number.
 
-4. Navigate to localhost:3000 and see the rendered component.
+## Technologies
+React
+Redux
+React-Router
+CSS
+Material UI
 
-#### Testing
+## Testing
 
 1. Testing done with Jest and Enzyme. Type command 'npm test' to run all test. Included are two example test, one testing a React component the other a standard Jest test
+
+# Components
+
+## Product Overview
+This feature gives client the ability to filter through all styles available for a product. Client can click through a gallery of images for a given style. Client can add 
+products by quantity and size.
+
