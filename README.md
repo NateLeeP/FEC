@@ -6,30 +6,30 @@ Client-facing frontend for e-commerce marketplace. Each member of a team of four
 
 After cloning repository, run the following commands.
 To install dependencies:
-'''
+```
 npm install
-'''
+```
 To bundle js files:
-'''
+```
 npm run build-dev
-'''
+```
 To start server:
-'''
+```
 npm start
-'''
+```
 
 Visit 'localhost:3000/product/1' to view first product. See different products by changing number.
 
 ## Technologies
-React
-Redux
-React-Router
-CSS
-Material UI
+- React
+- Redux
+- React-Router
+- CSS
+- Material UI
 
 ## Testing
 
-1. Testing done with Jest and Enzyme. Type command 'npm test' to run all test. Included are two example test, one testing a React component the other a standard Jest test
+Testing done with Jest and Enzyme. Type command 'npm test' to run all test. Included are two example test, one testing a React component the other a standard Jest test
 
 # Components
 
