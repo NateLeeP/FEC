@@ -11,7 +11,7 @@ npm install
 ```
 To bundle js files:
 ```
-npm run build-dev
+npm run build
 ```
 To start server:
 ```
